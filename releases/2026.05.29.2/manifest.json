@@ -1,0 +1,29 @@
+﻿{
+    "version":  "2026.05.29.2",
+    "date":  "2026-05-29",
+    "runtime":  "net8.0",
+    "platform":  "win-x64",
+    "packaging":  "framework-dependent-shared",
+    "assets":  [
+                   {
+                       "package":  "meta",
+                       "file":  "meta-offline-win-x64-2026.05.29.2-framework-dependent-shared.zip",
+                       "sha256":  "53dc73d3d40428f99b1a87a77d023ddcd80aa17ff9307a613555eb0ab8c2fcd1",
+                       "bytes":  4367617
+                   },
+                   {
+                       "package":  "meta-bi",
+                       "file":  "meta-bi-offline-win-x64-2026.05.29.2-framework-dependent-shared.zip",
+                       "sha256":  "3d60544430431c9298b8b63f560f8f0e3b9137ab73fc616a8db03b8009aa300d",
+                       "bytes":  14533641
+                   },
+                   {
+                       "package":  "offline-corpus-probe",
+                       "file":  "offline-corpus-probe-2026.05.29.2.zip",
+                       "sha256":  "a44a5f8774e831c2ebd2ec45206d82f9a715b74ba125f48a02e74024a35f4a44",
+                       "bytes":  28912
+                   }
+               ],
+    "cliVersionArgument":  "--version",
+    "notes":  "Source repositories do not publish release assets; this repository is the public distribution surface."
+}
