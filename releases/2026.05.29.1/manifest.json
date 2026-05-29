@@ -20,8 +20,8 @@
                    {
                        "package":  "offline-corpus-probe",
                        "file":  "offline-corpus-probe-2026.05.29.1.zip",
-                       "sha256":  "f848cb7f282fb4fda3197ff945d96af68251eab960a87d7d22a2c3909c7f791b",
-                       "bytes":  27404
+                       "sha256":  "a77be87f62b639ac5563634a9e274fef423394f106eade67591b7ca90b1a8960",
+                       "bytes":  28441
                    }
                ],
     "cliVersionArgument":  "--version",

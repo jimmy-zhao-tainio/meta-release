@@ -6,6 +6,7 @@
 - Adds explicit partial binding with `--allow-partial` and TSV diagnostics through `--partial-report`.
 - Adds DQ filtering with `--binding-workspace`, scanning only validation-backed transform scripts.
 - Updates the offline corpus probe to ignore sparse `UpdateAudit_ID`, run binding in partial mode, write binding skip reports, and generate DQ SQL only from matching validated BindingWS inputs.
+- Updates the offline corpus probe to extract `Mgmt`/`KUBMgmt` as a schema-only source, write binding partial reports into `TestRuns`, and run DQ only for `Staging` and `DataWarehouse`.
 
 Release metadata:
 
