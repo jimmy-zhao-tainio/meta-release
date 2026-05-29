@@ -4,7 +4,7 @@ Public distribution repository for signed-off `meta` and `meta-bi` release artif
 
 ## Current release
 
-Version: `2026.05.28.5`
+Version: `2026.05.29.1`
 
 Packages are published on the GitHub release page as framework-dependent Windows x64 zip files.
 They use shared DLLs and require the .NET 8 runtime to be installed on the target machine.
